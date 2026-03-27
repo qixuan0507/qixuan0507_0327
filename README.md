@@ -31,6 +31,4 @@
 
 ### 📫 聯絡方式 (Contact Me)
 
-- 📧 Email: [你的電子郵件信箱]
-- 💼 LinkedIn: [你的 LinkedIn 連結]
-- 📝 Blog/Portfolio: [你的個人網站或部落格連結]
+- 📧 Email: [qixuan0507@gmail.com]
